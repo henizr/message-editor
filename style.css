@@ -1,0 +1,15 @@
+.message-editor{
+    width: 600px;
+    min-height: 400px;
+    margin: 0 auto;
+    border: 1px solid grey;
+    border-radius: 15px;
+    position: relative;
+}
+.bar-editor{
+
+}
+.message-body{
+height: 110px;
+border: 1px solid grey;
+}
